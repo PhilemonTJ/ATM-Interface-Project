@@ -1,0 +1,5 @@
+10001|Emily Johnson|1111|70000.0
+10002|Liam Smith|2222|20000.0
+10003|Sophia Martinez|3333|0.0
+10004|Noah Anderson|4444|0.0
+10005|Olivia Brown|5555|0.0
